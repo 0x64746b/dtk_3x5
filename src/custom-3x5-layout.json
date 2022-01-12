@@ -8,12 +8,12 @@
       "y": 1,
       "x": 3.5,
       "c": "#a1a1a1",
-      "t": "#0028ff\n#00abbd\n#00940d"
+      "t": "#0028ff\n#00abbd\n#00940d\n\n\n\n#9c00c4\n\n#8c8c8c\n#7d7d7d\n#ff0000"
     },
     "\nF3\n$",
     {
       "x": 10.5,
-      "t": "#000000\n\n#00940d\n#0028ff\n\n\n#9c00c4",
+      "t": "#000000\n#ffb800\n#00940d\n#0028ff\n\n\n#9c00c4\n\n#8c8c8c\n#7d7d7d\n#ff0000",
       "fa": [
         0,
         0,
@@ -26,7 +26,7 @@
     {
       "y": -0.875,
       "x": 2.5,
-      "t": "#0028ff\n#00abbd\n#00940d",
+      "t": "#0028ff\n#00abbd\n#00940d\n\n\n\n#9c00c4\n\n#8c8c8c\n#7d7d7d\n#ff0000",
       "f": 3
     },
     "\nF4\n#",
@@ -37,7 +37,7 @@
     "\nF2\n%",
     {
       "x": 8.5,
-      "t": "#000000\n\n#00940d\n#0028ff",
+      "t": "#000000\n#ffb800\n#00940d\n#0028ff\n\n\n#9c00c4\n\n#8c8c8c\n#7d7d7d\n#ff0000",
       "f": 3
     },
     "\n\n*\n7",
@@ -45,19 +45,19 @@
       "x": 1,
       "f": 3
     },
-    "\n\n)\n9"
+    "\n\n)\n9\n\n\n\n\nü"
   ],
   [
     {
       "y": -0.875,
       "x": 5.5,
-      "t": "#0028ff\n#00abbd\n#00940d",
+      "t": "#0028ff\n#00abbd\n#00940d\n\n\n\n#9c00c4\n\n#8c8c8c\n#7d7d7d\n#ff0000",
       "f": 3
     },
     "\nF1\n^",
     {
       "x": 6.5,
-      "t": "#0028ff\n\n#00940d",
+      "t": "#0028ff\n#ffb800\n#00940d\n\n\n\n#9c00c4\n\n#8c8c8c\n#7d7d7d\n#ff0000",
       "f": 3
     },
     "\n\n&"
@@ -66,26 +66,27 @@
     {
       "y": -0.875,
       "x": 1.5,
+      "t": "#0028ff\n#00abbd\n#00940d\n\n\n\n#9c00c4\n\n#8c8c8c\n#7d7d7d\n#ff0000",
       "f": 3
     },
-    "\n\n@",
+    "\n\n@\n\n\n\n\n\nä",
     {
       "x": 14.5,
-      "t": "#000000\n\n#00940d\n#0028ff",
+      "t": "#000000\n#ffb800\n#00940d\n#0028ff\n\n\n#9c00c4\n\n#8c8c8c\n#7d7d7d\n#ff0000",
       "f": 3
     },
-    "\n\n_\n-"
+    "\n\n_\n-\n\n\n\n\nö"
   ],
   [
     {
       "y": -0.375,
       "x": 3.5,
-      "t": "#000000\n#00abbd\n\n\n#757575\n\n\n\n\n#7d7d7d"
+      "t": "#000000\n#00abbd\n#00940d\n\n#757575\n\n#9c00c4\n\n#8c8c8c\n#7d7d7d\n#ff0000"
     },
-    "\nF7\n\n\nCTRL\n\n\n\n\nS",
+    "\nF7\n\n\nCTRL\n\n\n\nß\nS",
     {
       "x": 10.5,
-      "t": "#000000\n#ffb800\n#00940d\n#0028ff\n#757575\n\n\n\n\n#7d7d7d\n#ff0000",
+      "t": "#000000\n#ffb800\n#00940d\n#0028ff\n#757575\n\n#9c00c4\n\n#8c8c8c\n#7d7d7d\n#ff0000",
       "f": 3
     },
     "\n<i class='kb kb-Unicode-Page-Up-3'></i>\n{\n5\nCTRL\n\n\n\n\nE\n<i class='kb kb-Arrows-Up'></i>"
@@ -94,18 +95,17 @@
     {
       "y": -0.875,
       "x": 2.5,
-      "t": "#000000\n#00abbd\n#00940d\n#0028ff\n#757575\n\n\n\n\n#7d7d7d"
+      "t": "#000000\n#00abbd\n#00940d\n#0028ff\n#757575\n\n#9c00c4\n\n#8c8c8c\n#7d7d7d\n#ff0000"
     },
     "\nF8\n\n\nGUI\n\n\n\n\nR",
     {
       "x": 1,
-      "t": "#000000\n#00abbd\n\n#0028ff\n#757575\n\n\n\n\n#7d7d7d",
       "f": 2
     },
     "\nF6\n\nCPS\nSFT\n\n\n\n\nT",
     {
       "x": 8.5,
-      "t": "#000000\n#ffb800\n\n#0028ff\n#757575\n\n\n\n\n#7d7d7d\n#ff0000",
+      "t": "#000000\n#ffb800\n#00940d\n#0028ff\n#757575\n\n#9c00c4\n\n#8c8c8c\n#7d7d7d\n#ff0000",
       "f": 3
     },
     "\n<i class='kb kb-Unicode-Page-Down-3'></i>\n\n4\nSFT\n\n\n\n\nN\n<i class='kb kb-Arrows-Down'></i>"
@@ -113,8 +113,7 @@
   [
     {
       "y": -0.9990996000000001,
-      "x": 16,
-      "t": "#000000\n#ffb800\n#00940d\n#0028ff\n#757575\n\n#9c00c4\n\n\n#7d7d7d\n#ff0000"
+      "x": 16
     },
     "\n<i class='kb kb-Line-End'></i>\n}\n6\nGUI\n\n<i class='kb kb-Unicode-Page-Down-2'></i>\n\n\nI\n<i class='kb kb-Arrows-Right'></i>"
   ],
@@ -122,12 +121,12 @@
     {
       "y": -0.8759003999999999,
       "x": 5.5,
-      "t": "#000000\n#00abbd"
+      "t": "#000000\n#00abbd\n#00940d\n\n\n\n#9c00c4\n\n#8c8c8c\n#7d7d7d\n#ff0000"
     },
     "\nF5",
     {
       "x": 6.5,
-      "t": "#000000\n#ffb800\n#00940d\n#0028ff\n\n\n#9c00c4\n\n\n\n#ff0000"
+      "t": "#000000\n#ffb800\n#00940d\n#0028ff\n\n\n#9c00c4\n\n#8c8c8c\n#7d7d7d\n#ff0000"
     },
     "\n<i class='kb kb-Line-Start'></i>\n\"\n'\n\n\n<i class='kb kb-Unicode-Page-Up-2'></i>\n\n\n\n<i class='kb kb-Arrows-Left'></i>"
   ],
@@ -135,7 +134,7 @@
     {
       "y": -0.875,
       "x": 17,
-      "t": "#000000\n\n#00940d\n#0028ff\n#757575\n\n\n\n\n#7d7d7d"
+      "t": "#000000\n#ffb800\n#00940d\n#0028ff\n#757575\n\n#9c00c4\n\n#8c8c8c\n#7d7d7d\n#ff0000"
     },
     "\n\n+\n=\nALT\n\n\n\n\nO"
   ],
@@ -143,7 +142,7 @@
     {
       "y": -0.9998999999999998,
       "x": 1.5,
-      "t": "#0028ff\n\n#00940d\n\n#757575\n\n\n\n\n#7d7d7d"
+      "t": "#0028ff\n#00abbd\n#00940d\n\n#757575\n\n#9c00c4\n\n#8c8c8c\n#7d7d7d\n#ff0000"
     },
     "\n\n!\n\nALT\n\n\n\n\nA"
   ],
@@ -151,12 +150,12 @@
     {
       "y": -0.3751000000000002,
       "x": 3.5,
-      "t": "#000000\n#00abbd"
+      "t": "#000000\n#00abbd\n#00940d\n\n\n\n#9c00c4\n\n#8c8c8c\n#7d7d7d\n#ff0000"
     },
     "\nF11",
     {
       "x": 10.5,
-      "t": "#000000\n\n#00940d\n#0028ff\n\n\n\n\n\n#7d7d7d"
+      "t": "#000000\n#ffb800\n#00940d\n#0028ff\n\n\n#9c00c4\n\n#8c8c8c\n#7d7d7d\n#ff0000"
     },
     "\n\n[\n2\n\n\n\n\n\n,"
   ],
@@ -164,24 +163,24 @@
     {
       "y": -0.875,
       "x": 2.5,
-      "t": "#000000\n#00abbd"
+      "t": "#000000\n#00abbd\n#00940d\n\n\n\n#9c00c4\n\n#8c8c8c\n#7d7d7d\n#ff0000"
     },
     "\nF12",
     {
       "x": 1,
-      "t": "#000000\n\n\n\n#00940d\n\n#00abbd\n\n\n\n#ffb800",
+      "t": "#000000\n#00abbd\n#00940d\n\n#00940d\n\n#00abbd\n\n#8c8c8c\n#7d7d7d\n#ffb800",
       "f": 2
     },
     "\n\n\n\nSYM\n\nF10\n\n\n\nNAV",
     {
       "x": 8.5,
-      "t": "#000000\n\n\n#0028ff\n#00940d",
+      "t": "#000000\n#ffb800\n#00940d\n#0028ff\n#00940d\n\n#9c00c4\n\n#8c8c8c\n#7d7d7d\n#ff0000",
       "f": 3
     },
     "\n\n\n1\nSYM",
     {
       "x": 1,
-      "t": "#000000\n\n#00940d\n#0028ff\n\n\n\n\n\n#7d7d7d"
+      "t": "#000000\n#ffb800\n#00940d\n#0028ff\n\n\n#9c00c4\n\n#8c8c8c\n#7d7d7d\n#ff0000"
     },
     "\n\n]\n3\n\n\n\n\n\n."
   ],
@@ -189,12 +188,12 @@
     {
       "y": -0.875,
       "x": 5.5,
-      "t": "#000000\n#00abbd"
+      "t": "#000000\n#00abbd\n#00940d\n\n\n\n#9c00c4\n\n#8c8c8c\n#7d7d7d\n#ff0000"
     },
     "\nF9",
     {
       "x": 6.5,
-      "t": "#7d7d7d\n\n#00940d\n#0028ff"
+      "t": "#7d7d7d\n#ffb800\n#00940d\n#0028ff\n\n\n#9c00c4\n\n#8c8c8c\n#7d7d7d\n#ff0000"
     },
     "\n\n~\n`"
   ],
@@ -202,7 +201,7 @@
     {
       "y": -0.875,
       "x": 17,
-      "t": "#0028ff\n\n#00940d\n\n\n\n\n\n\n#7d7d7d"
+      "t": "#0028ff\n#ffb800\n#00940d\n\n\n\n#9c00c4\n\n#8c8c8c\n#7d7d7d\n#ff0000"
     },
     "\n\n|\n\\\n\n\n\n\n\n/"
   ],
@@ -210,7 +209,7 @@
     {
       "y": -0.9999905999999998,
       "x": 1.5,
-      "t": "",
+      "t": "#7d7d7d",
       "a": 7
     },
     ""
@@ -219,15 +218,15 @@
     {
       "y": -0.2500093999999997,
       "x": 4.5,
-      "t": "#9c00c4",
+      "t": "#9c00c4\n#00abbd\n#00940d\n\n\n\n#9c00c4\n\n#8c8c8c\n#7d7d7d\n#ff0000",
       "a": 4
     },
     "EXP\n\n\n\nOS",
     {
       "x": 8.5,
-      "t": "#000000"
+      "t": "#000000\n#ffb800\n#00940d\n\n#8c8c8c\n\n#9c00c4\n\n#8c8c8c\n#7d7d7d\n#ff0000"
     },
-    "<i class='kb kb-Tab-1'></i>\n\n\n\nALT GR"
+    "<i class='kb kb-Tab-1'></i>\n\n\n\nCOM-"
   ],
   [
     {
@@ -236,7 +235,7 @@
       "ry": 4.25,
       "y": -0.25,
       "x": 0.5,
-      "t": "#000000\n\n\n\n#ff0000",
+      "t": "#000000\n#00abbd\n#00940d\n\n#ff0000\n\n#9c00c4\n\n#8c8c8c\n#7d7d7d\n#ff0000",
       "h": 1.5
     },
     "ESC\n\n\n\nARR"
@@ -245,7 +244,7 @@
     {
       "y": -0.5,
       "x": -0.5,
-      "t": "#000000\n\n\n#2444d8\n#2444d8"
+      "t": "#000000\n#00abbd\n#00940d\n#2444d8\n#2444d8\n\n#9c00c4\n\n#8c8c8c\n#7d7d7d\n#ff0000"
     },
     "<i class='kb kb-Unicode-BackSpace-DeleteLeft-Big'></i>\n\n\n<i class='kb kb-Unicode-DeleteRight-Big'></i>\nNUM"
   ],
@@ -255,7 +254,7 @@
       "rx": 13,
       "y": -0.25,
       "x": -1.5,
-      "t": "#000000\n\n\n\n#00abbd",
+      "t": "#000000\n#ffb800\n#00940d\n\n#00abbd\n\n#9c00c4\n\n#8c8c8c\n#7d7d7d\n#ff0000",
       "h": 1.5
     },
     "<i class='kb kb-Return-2'></i>\n\n\n\nFN"
@@ -264,7 +263,7 @@
     {
       "y": -0.5,
       "x": -0.5,
-      "t": "#000000\n\n\n#0028ff\n#0028ff"
+      "t": "#000000\n#ffb800\n#00940d\n#0028ff\n#0028ff\n\n#9c00c4\n\n#8c8c8c\n#7d7d7d\n#ff0000"
     },
     "SPC\n\n\n0\nNUM"
   ]
