@@ -11,4 +11,6 @@ A custom 3x5 +3 keyboard layout. It's a folded version of the 3x6 +3 layout I've
 The goal of this layout is not outright efficiency, but rather familiarity and to some degree consistency with Colemak (preserving finger assignments for symbols where justifiable), in order to not unlearn what I learnt in countless painful lessons ;P
 
 # Genesis
-![A visualisation of the transformation process](./docs/assets/img/dtk35_genesis.svg)
+<p align="center">
+  <img width="600" alt="A visualisation of the transformation process" src="https://cdn.jsdelivr.net/gh/0x64746b/dtk_3x5@genesis/docs/assets/img/dtk35_genesis.svg">
+</p>
