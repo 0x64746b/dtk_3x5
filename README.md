@@ -12,5 +12,5 @@ The goal of this layout is not outright efficiency, but rather familiarity and t
 
 # Genesis
 <p align="center">
-  <img width="600" alt="A visualisation of the transformation process" src="./docs/assets/img/dtk35_genesis_in_css.svg">
+  <img alt="A visualisation of the transformation process" src="./docs/assets/img/dtk35_genesis_in_css.svg">
 </p>
